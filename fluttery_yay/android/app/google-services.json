@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "484935742333",
+    "firebase_url": "https://minimalist-videocalling.firebaseio.com",
+    "project_id": "minimalist-videocalling",
+    "storage_bucket": "minimalist-videocalling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484935742333:android:6d12ee1dc29b1b538f5214",
+        "android_client_info": {
+          "package_name": "com.sarthak.flutteryyay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484935742333-4ejlja1mcj40bokl625soa8a36iborum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sarthak.flutteryyay",
+            "certificate_hash": "b564c3e8264a63ee8d014220075f16692bb023d1"
+          }
+        },
+        {
+          "client_id": "484935742333-8qq6g62dl789jhi5hgge7lmb8lqt1rab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV0rswqnYF8n0xKu9duFROyrL8Ux7tl7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484935742333-8qq6g62dl789jhi5hgge7lmb8lqt1rab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
