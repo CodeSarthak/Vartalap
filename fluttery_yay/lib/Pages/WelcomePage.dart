@@ -184,7 +184,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         Navigator.of(context).pushNamed("/passwordreset");
                       },
                       child: Text(
-                        "Forgot Password",
+                        "Forgot Password?",
                         style: TextStyle(
                           color: Colors.teal,
                           fontWeight: FontWeight.bold,

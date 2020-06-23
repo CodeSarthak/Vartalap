@@ -176,8 +176,10 @@ class HomeState extends State<Home> {
   }
 
   Future<void> _handleCameraAndMic() async {
+    Navigator.pushNamed(context, "/");
     await PermissionHandler().requestPermissions(
       [PermissionGroup.camera, PermissionGroup.microphone],
+
     );
   }
 
